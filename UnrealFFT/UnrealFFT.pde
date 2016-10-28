@@ -534,8 +534,8 @@ void keyboard(long now){
 void setup() {
 
 	//*** Design ***\\\
-	//fullScreen();
-	size(1200, 800, P2D);
+	fullScreen();
+	//size(1200, 800, P2D);
 	surface.setResizable(true);
 	background(0);
 	colorMode(HSB, 100);
