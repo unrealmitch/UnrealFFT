@@ -24,7 +24,14 @@ Libraries:  Minim
     Added different color effects to bars and his configuration 
     Arduino selection and auto-detection
 
-	2.0 [3D]: Cooming soon
+	2.0: Added 3D (OpenGL)
+
+	2.4: Better 3D Camera Controll
+	Added differents 3D Effects [Wheel]
+	Added wave fft form
+	Added beat (kick,snare,hat)
+	Better wifi/serial communication
+	Added background beat effect
 
 **Images**
 ![Screenshot of program in fullscreen](https://github.com/unrealmitch/UnrealFFT/blob/master/Screenshots/S1.png)
