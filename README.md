@@ -40,5 +40,5 @@ Libraries:  Minim
 
 ![Screenshot](https://github.com/unrealmitch/UnrealFFT/blob/master/Screenshots/S3.jpg)
 
-![Screenshot](https://github.com/unrealmitch/UnrealFFT/blob/master/Screenshots/S4.jpg)
+![Screenshot](https://github.com/unrealmitch/UnrealFFT/blob/master/Screenshots/S4.png)
 
